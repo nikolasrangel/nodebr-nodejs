@@ -1,0 +1,16 @@
+{
+  "name": "ferramentas-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^2.19.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {}
+}
